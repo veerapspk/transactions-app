@@ -1,0 +1,6 @@
+GET http://localhost:3005/transactions?search=acer&month=04
+Content-Type: application/json
+
+###
+GET http://localhost:3005/bar-chart
+Content-Type: application/json
